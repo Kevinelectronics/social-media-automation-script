@@ -2,6 +2,8 @@
 
 Automatically turn any Medium article into platform-optimized social media posts and schedule them — powered by GPT-4o and [Zernio](https://zernio.com).
 
+## Demo video https://youtu.be/SUHQCamX2QU
+
 ## What It Does
 
 1. **Scrapes** a Medium article (title + body)
